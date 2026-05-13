@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mike Peng 👋
 
 I am an **Applied Data Science Graduate Student at the University of Chicago** with a deep focus on the intersection of quantitative finance, algorithmic trading, and machine learning. 
 
