@@ -30,5 +30,3 @@ This summer, I’ll be joining **Haitong International Securities** in Hong Kong
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mike-peng-244237245/)
-
-*"In a world of noise, I look for the signal."*
